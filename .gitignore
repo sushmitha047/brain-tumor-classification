@@ -1,0 +1,8 @@
+.env
+.venv
+.DS_Store
+brain-tumor-mri-dataset
+models/xception_model.h5
+saliency_maps
+__pycache__/
+.ipynb_checkpoints/assets/app_video.mov
